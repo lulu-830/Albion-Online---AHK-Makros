@@ -19,12 +19,10 @@ Unterstützung beim erneuten Einstellen bestehender Verkaufsangebote.
 📂 Projektstruktur
 .
 ├── Armor.ahk
-
 ├── offhand.ahk
-
 ├── Re Sell.ahk
-
 └── README.md
+
 ⚙️ Voraussetzungen
 Windows
 AutoHotkey v1.x oder v2 (je nach verwendetem Skript)
