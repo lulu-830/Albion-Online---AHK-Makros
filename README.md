@@ -5,18 +5,25 @@
 
 Dieses Repository enthält eine Sammlung von AutoHotkey (AHK)-Skripten für den Albion Online Marketplace. Die Makros dienen dazu, wiederkehrende Abläufe zu vereinfachen und den Verwaltungsaufwand im Handel zu reduzieren.
 
-✨ Features
+✨ Features:
+
 🛡️ Armor.ahk
 Unterstützung beim Verwalten von Rüstungsgegenständen.
+
 🛡️ offhand.ahk
 Hilfsfunktionen für Offhand-Gegenstände.
+
 💰 Re Sell.ahk
 Unterstützung beim erneuten Einstellen bestehender Verkaufsangebote.
+
 📂 Projektstruktur
 .
 ├── Armor.ahk
+
 ├── offhand.ahk
+
 ├── Re Sell.ahk
+
 └── README.md
 ⚙️ Voraussetzungen
 Windows
